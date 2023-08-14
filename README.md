@@ -38,7 +38,7 @@
 
 ## 시연
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: no-wrap;">
 <div style="margin:10px;">
 <div>메인페이지</div>
 <img style= "width:400px; height:300px;" src="https://user-images.githubusercontent.com/97607572/221755814-ca7ee92e-f5ae-4a39-8868-acc499c1f2e5.gif"/>

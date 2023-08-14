@@ -39,16 +39,16 @@
 ## 시연
 
 <div style="display: flex; flex-wrap: no-wrap;">
-<div style="margin:10px;">
-<div>메인페이지</div>
-<img style= "width:400px; height:300px;" src="https://user-images.githubusercontent.com/97607572/221755814-ca7ee92e-f5ae-4a39-8868-acc499c1f2e5.gif"/>
-</div>
-<div style="margin:10px;">
-<div>회원관리</div>
-<img style= "width:400px; height:300px;"src="https://user-images.githubusercontent.com/97607572/221756440-9c612870-f5e3-41af-bdb2-e5df6565a609.gif"/>
-</div>
-<div style="margin:10px;">
-<div>상품페이지</div>
-<img style= "width:400px; height:300px;" src="https://user-images.githubusercontent.com/97607572/221756716-aee0b9d9-f841-4827-9e7a-14df79e72181.gif"/>
-</div>
+  <div style="margin:10px;">
+    <div>메인페이지</div>
+    <img style= "width:400px; height:300px;" src="https://user-images.githubusercontent.com/97607572/221755814-ca7ee92e-f5ae-4a39-8868-acc499c1f2e5.gif"/>
+  </div>
+  <div style="margin:10px;">
+    <div>회원관리</div>
+    <img style= "width:400px; height:300px;"src="https://user-images.githubusercontent.com/97607572/221756440-9c612870-f5e3-41af-bdb2-e5df6565a609.gif"/>
+  </div>
+  <div style="margin:10px;">
+    <div>상품페이지</div>
+    <img style= "width:400px; height:300px;" src="https://user-images.githubusercontent.com/97607572/221756716-aee0b9d9-f841-4827-9e7a-14df79e72181.gif"/>
+  </div>
 </div>
